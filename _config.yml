@@ -1,4 +1,4 @@
-title: Dien Phan blog
+title: Dien Phan
 author: Dien Phan
 email: tdien105@gmail.com
 description: >
@@ -13,7 +13,6 @@ plainwhite:
   date_format: "%b %-d, %Y"
   sitemap: true
   search: true
-  dark_mode: true
   portfolio_image: "assets/portfolio.png"
   html_lang: "en"
   condensed_mobile:
@@ -21,12 +20,9 @@ plainwhite:
     - page
     - post
   social_links:
-    github: tdien105@gmail.com
-    linkedIn: in/tdien105
+    github: tdien105
   navigation:
     - title: About
-      url: "/about"
-    - title: Resume
       url: "/about"
 
 # Build settings
